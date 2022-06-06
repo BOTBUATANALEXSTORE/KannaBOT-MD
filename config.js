@@ -51,26 +51,26 @@ global.sdc = 'https://discord.gg/WEJQjugTY7'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085712420674'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085712420674'
-global.ppulsa2 = '083143393763'
+global.pdana = '083167581315'
+global.povo = '083167581315'
+global.pgopay = '083167581315'
+global.ppulsa = '083167581315'
+global.ppulsa2 = '083167581315'
 global.psaweria = 'https://saweria.com/kannabotz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6283143393763'
-global.nomorown = '62831433937633'
-global.namebot = 'Kanna BOT'
-global.nameown = 'Letta - Sama'
+global.nomorbot = '62895330437426'
+global.nomorown = '6283167581315'
+global.namebot = 'Chika BOT'
+global.nameown = 'ALEXTZ STORE'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
-  ['18126338970'],
-  ['62831433937633', 'LETTA ! 🐰', true]
+  ['6283167581315'],
+  ['6283167581315'],
+  ['62895330437426'],
+  ['62895330437426', 'LETTA ! 🐰', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
